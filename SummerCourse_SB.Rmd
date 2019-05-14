@@ -2,7 +2,7 @@
 title: "Notebook"
 author: "Salome Buglass"
 date: :"5/14/2019""
-output: html_document
+output: github_document
 
 ---
 # Salome's Notebook
