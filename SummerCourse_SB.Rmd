@@ -18,4 +18,5 @@ Based on coconut island, see image below:
 #echo=FALSE only displays the output
 hist(rnorm(1000))
 ```
->Figure 
+
+

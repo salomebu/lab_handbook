@@ -4,7 +4,7 @@
 .Ruserdata
 .DS_Store
 
-*.html
+#*.html #dont want it to be tracked on the verion control
 
 
 
